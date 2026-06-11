@@ -1,0 +1,3 @@
+Halo, nama saya Putri.
+Saya sedang belajar menjadi Fullstack Developer.
+Hari ini saya berhasil melakukan git clone pertama.
